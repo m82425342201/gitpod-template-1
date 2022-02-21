@@ -1,1 +1,1 @@
-sh _tools/gitpod.sh && sh _tools/install.sh
+sh /workspace/_tools/gitpod.sh && sh /workspace/_tools/install.sh
