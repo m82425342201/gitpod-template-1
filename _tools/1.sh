@@ -1,0 +1,1 @@
+sh _tools/gitpod.sh && sh _tools/install.sh
